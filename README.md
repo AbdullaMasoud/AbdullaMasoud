@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdullaMasoud
 
-- 🌱 I’m currently learning:
-       Flutter
+- 🌱 flutter Developer
 - 📫 How to reach me:
-      abdulla.masoud@gmail.com
+      abdulla.masoud95@gmail.com
